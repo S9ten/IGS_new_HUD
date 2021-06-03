@@ -9,13 +9,13 @@ IGS.S = IGS.S or {}
 IGS.S.COLORS = {
 	FRAME_HEADER        = Color(255,255,255), -- Фон верхушки фреймов в т.ч. пополнения счета и т.д. https://img.qweqwe.ovh/1491950958825.png
 	ACTIVITY_BG         = Color(255,255,255), -- Фон в каждой вкладке (основной) https://img.qweqwe.ovh/1509370647204.png
-	TAB_BAR             = Color(250,250,250), -- Фон таб бара https://img.qweqwe.ovh/1509370669492.png
+	TAB_BAR             = Color(50,50,90), -- Фон таб бара https://img.qweqwe.ovh/1509370669492.png
 
 	PASSIVE_SELECTIONS  = Color(240,240,240), -- Фон панели тегов, цвет кнопки с балансом, верхушки таблиц, не выделенные кнопки https://img.qweqwe.ovh/1509370720597.png
 	INNER_SELECTIONS    = Color(255,255,255), -- Фон иконок на плашках, фон панелек последних покупок... https://img.qweqwe.ovh/1509370766148.png
 
 	SOFT_LINE           = Color(240,240,240), -- Линия между секциями, типа "Информация" и "Описание" в инфе об итеме
-	HARD_LINE           = Color(200,200,200), -- Обводки панелей
+	HARD_LINE           = Color(255,255,255), -- Обводки панелей
 
 	HIGHLIGHTING        = Color(0,122,255),   -- Обводка кнопок, цвет текста не активной кнопки
 	HIGHLIGHT_INACTIVE  = Color(160,160,160), -- Цвет иконки неактивной кнопки таббара, мигающая иконка на фрейме помощи https://img.qweqwe.ovh/1509371884592.png
