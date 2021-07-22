@@ -7,8 +7,6 @@
 Original:
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/GM-DONATE/IGS/total?label=%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BA">
-  <img src="https://img.shields.io/github/languages/code-size/GM-DONATE/IGS">
   <img src="https://img.shields.io/github/license/GM-DONATE/IGS">
 </p>
 
